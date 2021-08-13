@@ -6,9 +6,13 @@ Contains all the Lightsabers (x36) you can see in the 9 movies (ANH/ESB/ROTJ/TPM
 
 Star Wars: 
 Episode I - The Phantom Menace (TPM)
+
 Episode II - Attack of the Clones (AOTC)
+
 Episode III - Revenge of the Sith (ROTS)
+
 Episode IV - A New Hope (ANH)
+
 Episode V – The Empire Strikes Back (ESB)
 Episode VI - Return of the Jedi (ROTJ)
 Episode VII - The Force Awakens (TFA)
