@@ -4,39 +4,39 @@ Lightsabers MEGA PACK.
 
 Contains all the Lightsabers (x36) you can see in the 9 movies (ANH/ESB/ROTJ/TPM/AOTC/ROTS/TFA/TLJ/TROS).
 
-*Adi Gallia & Shaak Ti's Lightsaber ROTS AOTC TPM Replica
+* Adi Gallia & Shaak Ti's Lightsaber ROTS AOTC TPM Replica
 
-*Agen Kolar's Lightsaber AOTC ROTS Replica
+* Agen Kolar's Lightsaber AOTC ROTS Replica
 
-*Anakin Skywalker's Lightsaber AOTC Replica
+* Anakin Skywalker's Lightsaber AOTC Replica
 
-*Anakin Skywalker's Lightsaber ROTS Replica
+* Anakin Skywalker's Lightsaber ROTS Replica
 
-*Barriss Offee's Lightsaber AOTC Replica
+* Barriss Offee's Lightsaber AOTC Replica
 
-*Ben Solo's Lightsaber TLJ Replica
+* Ben Solo's Lightsaber TLJ Replica
 
-*Darkside Rey's Lightsaber TROS Replica
+* Darkside Rey's Lightsaber TROS Replica
 
-*Darth Maul's Lightsaber TPM Replica
+* Darth Maul's Lightsaber TPM Replica
 
-*Darth Sidius Emperor Palpatine ROTS Replica
+* Darth Sidius Emperor Palpatine ROTS Replica
 
-*Darth Tyranus Count Dooku ROTS Replica
+* Darth Tyranus Count Dooku ROTS Replica
 
-*Darth Vader's Lightsaber ANH Replica
+* Darth Vader's Lightsaber ANH Replica
 
-*Darth Vader's Lightsaber ESB Replica
+* Darth Vader's Lightsaber ESB Replica
 
-*Darth Vader's Lightsaber ROTS Replica
+* Darth Vader's Lightsaber ROTS Replica
 
-*Darth Vader's Lightsaber ROTJ Replica
+* Darth Vader's Lightsaber ROTJ Replica
 
-*ki-Adi-Muni's Lightsaber TPM AOTC ROTS Replica
+* ki-Adi-Muni's Lightsaber TPM AOTC ROTS Replica
 
-*Kit Fisto & Eeth Koth's Lightsaber TPM AOTC ROTS Replica
+* Kit Fisto & Eeth Koth's Lightsaber TPM AOTC ROTS Replica
 
-*Kylo Ren's Lightsaber TFA TLJ Replica
+* Kylo Ren's Lightsaber TFA TLJ Replica
 
 Leia Organa's Lightsaber TROS Replica
 
