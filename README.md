@@ -4,25 +4,6 @@ Lightsabers MEGA PACK.
 
 Contains all the Lightsabers (x36) you can see in the 9 movies (ANH/ESB/ROTJ/TPM/AOTC/ROTS/TFA/TLJ/TROS).
 
-Star Wars: 
-
-Episode I - The Phantom Menace (TPM)
-
-Episode II - Attack of the Clones (AOTC)
-
-Episode III - Revenge of the Sith (ROTS)
-
-Episode IV - A New Hope (ANH)
-
-Episode V – The Empire Strikes Back (ESB)
-
-Episode VI - Return of the Jedi (ROTJ)
-
-Episode VII - The Force Awakens (TFA)
-
-Episode VIII - The Last Jedi (TLJ)
-
-Episode IX - The Rise of Skywalker (ROTS)
 
 
 Adi Gallia & Shaak Ti's Lightsaber ROTS AOTC TPM Replica
@@ -96,3 +77,26 @@ Rey's Lightsaber TROS Replica
 Roron Corobb & Aayla Secura's Lightsaber AOTC ROTS Replica
 
 Saesee Tiin's Lightsaber TPM AOTC ROTS Replica
+
+
+
+
+Star Wars: 
+
+Episode I - The Phantom Menace (TPM)
+
+Episode II - Attack of the Clones (AOTC)
+
+Episode III - Revenge of the Sith (ROTS)
+
+Episode IV - A New Hope (ANH)
+
+Episode V – The Empire Strikes Back (ESB)
+
+Episode VI - Return of the Jedi (ROTJ)
+
+Episode VII - The Force Awakens (TFA)
+
+Episode VIII - The Last Jedi (TLJ)
+
+Episode IX - The Rise of Skywalker (ROTS)
