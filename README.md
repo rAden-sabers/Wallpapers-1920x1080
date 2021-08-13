@@ -5,6 +5,7 @@ Lightsabers MEGA PACK.
 Contains all the Lightsabers (x36) you can see in the 9 movies (ANH/ESB/ROTJ/TPM/AOTC/ROTS/TFA/TLJ/TROS).
 
 Star Wars: 
+
 Episode I - The Phantom Menace (TPM)
 
 Episode II - Attack of the Clones (AOTC)
@@ -14,21 +15,36 @@ Episode III - Revenge of the Sith (ROTS)
 Episode IV - A New Hope (ANH)
 
 Episode V – The Empire Strikes Back (ESB)
+
 Episode VI - Return of the Jedi (ROTJ)
+
 Episode VII - The Force Awakens (TFA)
+
 Episode VIII - The Last Jedi (TLJ)
+
 Episode IX - The Rise of Skywalker (ROTS)
 
+
 Adi Gallia & Shaak Ti's Lightsaber ROTS AOTC TPM Replica
+
 Agen Kolar's Lightsaber AOTC ROTS Replica
+
 Anakin Skywalker's Lightsaber AOTC Replica
+
 Anakin Skywalker's Lightsaber ROTS Replica
+
 Barriss Offee's Lightsaber AOTC Replica
+
 Ben Solo's Lightsaber TLJ Replica
+
 Darkside Rey's Lightsaber TROS Replica
+
 Darth Maul's Lightsaber TPM Replica
+
 Darth Sidius Emperor Palpatine ROTS Replica
+
 Darth Tyranus Count Dooku ROTS Replica
+
 Darth Vader's Lightsaber ANH Replica
 Darth Vader's Lightsaber ESB Replica
 Darth Vader's Lightsaber ROTS Replica
