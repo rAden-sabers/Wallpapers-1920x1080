@@ -6,9 +6,8 @@ Contains all the Lightsabers (x36) you can see in the 9 movies (ANH/ESB/ROTJ/TPM
 
 * Adi Gallia & Shaak Ti's Lightsaber ROTS AOTC TPM Replica
 
-Agen Kolar's Lightsaber AOTC ROTS Replica
-Anakin Skywalker's Lightsaber AOTC Replica
-
+* Agen Kolar's Lightsaber AOTC ROTS Replica
+* Anakin Skywalker's Lightsaber AOTC Replica
 * Anakin Skywalker's Lightsaber ROTS Replica
 
 * Barriss Offee's Lightsaber AOTC Replica
